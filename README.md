@@ -1,8 +1,9 @@
 # Helpdesk — Mini application PHP
 
 ## Membres du groupe
-- ...
-- ...
+- Clery Arsène
+- Tej Rayan
+- Kramer Axel
 
 ## Lancer le projet
 
