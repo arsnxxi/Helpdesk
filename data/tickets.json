@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "auteur_id": 1,
+    "auteur_nom": "Martin Dupont",
+    "titre": "Incompréhension du TD3 exercice 2b",
+    "description": "Je ne comprends pas comment appliquer le théorème de Bayes dans l'exercice 2b du TD3.\n\nL'énoncé demande de calculer P(A|B) sachant que P(B|A) = 0.7 et P(A) = 0.3, mais je n'arrive pas à trouver P(B) pour pouvoir appliquer la formule.",
+    "categorie": "TD",
+    "priorite": "Moyenne",
+    "statut": "En cours",
+    "date_creation": "2025-03-10 09:14:22"
+  },
+  {
+    "id": 2,
+    "auteur_id": 1,
+    "auteur_nom": "Martin Dupont",
+    "titre": "Erreur PHP : Undefined index dans mon formulaire",
+    "description": "Bonjour,\n\nJ'ai une erreur PHP dans mon TP4 :\n\nNotice: Undefined index: username in /var/www/tp4/login.php on line 12\n\nJ'ai vérifié mon formulaire HTML, le champ s'appelle bien 'username'. Je ne comprends pas pourquoi PHP dit qu'il n'existe pas.",
+    "categorie": "TP",
+    "priorite": "Haute",
+    "statut": "Résolu",
+    "date_creation": "2025-03-08 14:32:05"
+  },
+  {
+    "id": 3,
+    "auteur_id": 3,
+    "auteur_nom": "Sophie Bernard",
+    "titre": "Slide 14 du cours sur les arbres binaires illisible",
+    "description": "La slide 14 du cours sur les arbres binaires (chapitre 5) contient un schéma que je n'arrive pas à lire sur le PDF. Le texte semble avoir un problème de rendu. Pourrait-on avoir une version corrigée ?",
+    "categorie": "Cours",
+    "priorite": "Basse",
+    "statut": "Ouvert",
+    "date_creation": "2025-03-12 11:05:47"
+  },
+  {
+    "id": 4,
+    "auteur_id": 3,
+    "auteur_nom": "Sophie Bernard",
+    "titre": "Le serveur du TP ne répond plus",
+    "description": "Depuis ce matin, impossible d'accéder au serveur de TP à l'adresse http://tp-server.univ.fr. La page ne se charge pas et j'obtiens une erreur 'ERR_CONNECTION_REFUSED'.\n\nJ'ai vérifié sur plusieurs machines et le problème persiste.",
+    "categorie": "TP",
+    "priorite": "Haute",
+    "statut": "En cours",
+    "date_creation": "2025-03-13 08:45:00"
+  },
+  {
+    "id": 5,
+    "auteur_id": 1,
+    "auteur_nom": "Martin Dupont",
+    "titre": "Question sur la notation du projet final",
+    "description": "Bonjour,\n\nJ'aimerais savoir comment sera noté le projet final. Plus précisément :\n- Est-ce que la documentation compte dans la note ?\n- Y a-t-il une soutenance orale prévue ?\n- Peut-on travailler en trinôme au lieu de binôme ?\n\nMerci d'avance.",
+    "categorie": "Cours",
+    "priorite": "Basse",
+    "statut": "Ouvert",
+    "date_creation": "2025-03-14 16:22:33"
+  }
+]

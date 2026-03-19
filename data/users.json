@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "username": "etudiant1",
+    "password": "password",
+    "role": "etudiant",
+    "nom": "Martin Dupont"
+  },
+  {
+    "id": 2,
+    "username": "tuteur1",
+    "password": "password",
+    "role": "tuteur",
+    "nom": "Prof. Leblanc"
+  },
+  {
+    "id": 3,
+    "username": "etudiant2",
+    "password": "password",
+    "role": "etudiant",
+    "nom": "Sophie Bernard"
+  }
+]

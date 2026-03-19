@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "ticket_id": 1,
+    "auteur": "Prof. Leblanc",
+    "message": "Bonjour Martin, pour trouver P(B) vous pouvez utiliser la loi des probabilités totales : P(B) = P(B|A)·P(A) + P(B|Ā)·P(Ā). Il vous manque P(B|Ā). Si l'exercice ne le donne pas explicitement, revoyez l'énoncé complet.",
+    "date": "2025-03-10 11:30:00"
+  },
+  {
+    "id": 2,
+    "ticket_id": 1,
+    "auteur": "Martin Dupont",
+    "message": "Merci ! J'ai relu l'énoncé et effectivement P(B|Ā) = 0.2 est donné dans la partie contexte que j'avais ratée. Je vais retenter le calcul.",
+    "date": "2025-03-10 14:05:11"
+  },
+  {
+    "id": 3,
+    "ticket_id": 2,
+    "auteur": "Prof. Leblanc",
+    "message": "Cette erreur signifie que PHP reçoit bien la requête POST mais que la clé 'username' est absente du tableau $_POST. Cela arrive souvent quand le formulaire a method=\"get\" au lieu de method=\"post\". Vérifiez l'attribut method de votre balise <form>.",
+    "date": "2025-03-08 16:00:00"
+  },
+  {
+    "id": 4,
+    "ticket_id": 2,
+    "auteur": "Martin Dupont",
+    "message": "C'était ça ! J'avais oublié l'attribut method et le formulaire utilisait GET par défaut. Tout fonctionne maintenant, merci beaucoup !",
+    "date": "2025-03-08 17:10:33"
+  },
+  {
+    "id": 5,
+    "ticket_id": 4,
+    "auteur": "Prof. Leblanc",
+    "message": "Je suis au courant du problème, le serveur est en maintenance jusqu'à 14h. Vous pouvez travailler en local en attendant avec XAMPP ou Laragon. Je vous tiendrai informés.",
+    "date": "2025-03-13 09:15:00"
+  }
+]
